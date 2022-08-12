@@ -1,6 +1,6 @@
-package com.svg.java.core;
+package example1.com.svg.java.core;
 
-import com.svg.java.utils.TaxUtils;
+import example1.com.svg.java.utils.TaxUtils;
 
 public class Invoice {
 

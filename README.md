@@ -47,3 +47,6 @@ Example of a module file
       // use the service com.service.MyService
       uses com.service.MyService
   }
+
+More info
+https://www.adictosaltrabajo.com/2017/10/30/modularidad-en-java-9-12/

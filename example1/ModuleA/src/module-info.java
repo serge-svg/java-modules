@@ -1,5 +1,5 @@
 module ModuleA {
-    exports com.svg.java.core;
+    exports example1.com.svg.java.core;
     // Line to enable/disable to see how it works
-    exports com.svg.java.utils;
+    exports example1.com.svg.java.utils;
 }

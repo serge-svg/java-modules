@@ -1,7 +1,7 @@
-package com.svg.java;
+package example1.com.svg.java;
 
-import com.svg.java.core.Invoice;
-import com.svg.java.utils.TaxUtils;
+import example1.com.svg.java.core.Invoice;
+import example1.com.svg.java.utils.TaxUtils;
 
 public class Main {
 

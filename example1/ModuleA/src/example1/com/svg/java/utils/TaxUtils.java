@@ -1,4 +1,4 @@
-package com.svg.java.utils;
+package example1.com.svg.java.utils;
 
 public class TaxUtils {
 
